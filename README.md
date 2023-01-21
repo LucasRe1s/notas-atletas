@@ -3,11 +3,6 @@
 <p align="center">
 Projeto final 01 no curso devStart oferecido pelo lab365 junto ao senai-SC.
 </p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 ## 🚀 Tecnologias
